@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "A ______ is a networking device that filters network traffic while connecting multiple computers or communicating devices.",
+    "OP1": "router",
+    "OP2": "gateway",
+    "OP3": "switch",
+    "OP4": "repeater",
+    "Answer": "3"
+  },
+  {
+    "Question": "Which of the following is not a LibreOffice Software Suite program?",
+    "OP1": "LibreOffice Writer",
+    "OP2": "LibreOffice Excel",
+    "OP3": "LibreOffice Calc",
+    "OP4": "LibreOffice Impress",
+    "Answer": "2"
+  },
+  {
+    "Question": "Which among the following is not a magnetic storage?",
+    "OP1": "Winchester disk",
+    "OP2": "Floppy Drive",
+    "OP3": "Memory Card",
+    "OP4": "Magnetic Tape",
+    "Answer": "3"
+  },
+  {
+    "Question": "Which among the following type of computer is also known as notebook?",
+    "OP1": "Micro Computer",
+    "OP2": "Multi Core",
+    "OP3": "Work Station",
+    "OP4": "Laptop Computer",
+    "Answer": "4"
+  },
+  {
+    "Question": "______ is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second.",
+    "OP1": "Frequency",
+    "OP2": "Protocol",
+    "OP3": "Speed",
+    "OP4": "Bandwidth",
+    "Answer": "4"
+  },
+  {
+    "Question": "______ holds address of the active memory location.",
+    "OP1": "Stack pointer",
+    "OP2": "Program Counter",
+    "OP3": "Memory Address Register",
+    "OP4": "Instruction Register",
+    "Answer": "3"
+  },
+  {
+    "Question": "Which of the following shortcut key is used to select all cells of the current row in MS - Excel 2010 worksheet?",
+    "OP1": "Shift + Page down",
+    "OP2": "Shift + Spacebar",
+    "OP3": "Shift + Page up",
+    "OP4": "Ctrl + Spacebar",
+    "Answer": "2"
+  },
+  {
+    "Question": "______ records everything you type on your PC in order to obtain your log-in name, passwords and other sensitive information.",
+    "OP1": "Virus",
+    "OP2": "Keyloggers",
+    "OP3": "Worms",
+    "OP4": "Ransomware",
+    "Answer": "2"
+  },
+  {
+    "Question": "Crypto Locker is a form of which of the following?",
+    "OP1": "Ransomware",
+    "OP2": "Adware",
+    "OP3": "Spyware",
+    "OP4": "Worms",
+    "Answer": "1"
+  },
+  {
+    "Question": "Which of the following is a web browser created and developed by Microsoft?",
+    "OP1": "Opera",
+    "OP2": "Chrome",
+    "OP3": "Edge",
+    "OP4": "Brave",
+    "Answer": "3"
+  },
+  {
+    "Question": "In MS-Word 365, Ctrl + E is the keyboard shortcut to ______.",
+    "OP1": "justify the selected text",
+    "OP2": "centre align the selected text",
+    "OP3": "right align the selected text",
+    "OP4": "display the file menu options",
+    "Answer": "2"
+  },
+  {
+    "Question": "Consider the following statements regarding line spacing of a paragraph in MS-Word 2010:<br>P: Line spacing determines the amount of vertical space between lines of text in a paragraph.<br>Q: Line spacing determines the amount of diagonal space between lines of text in a paragraph<br>Which of the following statement(s) is/are correct?",
+    "OP1": "Only P",
+    "OP2": "Both P and Q",
+    "OP3": "Neither P nor Q",
+    "OP4": "Only Q",
+    "Answer": "1"
+  },
+  {
+    "Question": "Which one of the following folders is used to store deleted emails?",
+    "OP1": "Trash",
+    "OP2": "Spam",
+    "OP3": "Inbox",
+    "OP4": "Drafts",
+    "Answer": "1"
+  },
+  {
+    "Question": "Which among the following ports is also called as mouse port?",
+    "OP1": "Video Graphic Array",
+    "OP2": "High Definition Media Interface",
+    "OP3": "Firewire",
+    "OP4": "PS/2",
+    "Answer": "4"
+  },
+  {
+    "Question": "______ displays a list of utility configure the computer system and install software and hardware.",
+    "OP1": "Run",
+    "OP2": "Control Panel",
+    "OP3": "Taskbar",
+    "OP4": "Help and Support",
+    "Answer": "2"
+  },
+  {
+    "Question": "______ was the first browser to display images inline with text instead of displaying images in a separate window.",
+    "OP1": "Mozilla",
+    "OP2": "Mosaic",
+    "OP3": "Lynx",
+    "OP4": "Opera",
+    "Answer": "2"
+  },
+  {
+    "Question": "______ are a set of wires, which carries a group of bits in parallel and has an associated control scheme. It provides a communication path between two or more devices of a computer system.",
+    "OP1": "Buses",
+    "OP2": "Control Unit",
+    "OP3": "Register",
+    "OP4": "Cache",
+    "Answer": "1"
+  },
+  {
+    "Question": "What will the function given below return in MS-Excel 2010?<br>=MATCH (12, {10,13, 30, 40, 60},1)",
+    "OP1": "0",
+    "OP2": "1",
+    "OP3": "#N/A",
+    "OP4": "2",
+    "Answer": "2"
+  },
+  {
+    "Question": "Which among the following statements is incorrect for input devices?",
+    "OP1": "Input devices are also called as peripheral device.",
+    "OP2": "Input devices accepts user data.",
+    "OP3": "Input devices helps computer in receiving data.",
+    "OP4": "Optical Mark Reader is an input device.",
+    "Answer": "1"
+  },
+  {
+    "Question": "Which among the following statements is incorrect?",
+    "OP1": "A magnetic tape consists of vertical columns called frames.",
+    "OP2": "Magnetic tape consists of horizontal rows called channels or tracks.",
+    "OP3": "Magnetic tape drivers are suitable for storage of data that need to be accessed randomly.",
+    "OP4": "There is no addressing in the magnetic tapes.",
+    "Answer": "3"
+  }
+]

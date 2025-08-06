@@ -1,0 +1,23 @@
+#separator:tab
+#html:true
+#tags column:10
+-	A ______ is a networking device that filters network traffic while connecting multiple computers or communicating devices.	router	gateway	switch	repeater	3			CGL::Mains::004 COMP
+-	Which of the following is not a LibreOffice Software Suite program?	LibreOffice Writer	LibreOffice Excel	LibreOffice Calc	LibreOffice Impress	2			CGL::Mains::004 COMP
+-	Which among the following is not a magnetic storage?	Winchester disk	Floppy Drive	Memory Card	Magnetic Tape	3			CGL::Mains::004 COMP
+-	Which among the following type of computer is also known as notebook?	Micro Computer	Multi Core	Work Station	Laptop Computer	4			CGL::Mains::004 COMP
+-	______ is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second.	Frequency	Protocol	Speed	Bandwidth	4			CGL::Mains::004 COMP
+-	______ holds address of the active memory location.	Stack pointer	Program Counter	Memory Address Register	Instruction Register	3			CGL::Mains::004 COMP
+-	Which of the following shortcut key is used to select all cells of the current row in MS - Excel 2010 worksheet?	Shift + Page down	Shift + Spacebar	Shift + Page up	Ctrl + Spacebar	2			CGL::Mains::004 COMP
+-	______ records everything you type on your PC in order to obtain your log-in name, passwords and other sensitive information.	Virus	Keyloggers	Worms	Ransomware	2			CGL::Mains::004 COMP
+-	Crypto Locker is a form of which of the following?	Ransomware	Adware	Spyware	Worms	1			CGL::Mains::004 COMP
+-	Which of the following is a web browser created and developed by Microsoft?	Opera	Chrome	Edge	Brave	3			CGL::Mains::004 COMP
+-	In MS-Word 365, Ctrl + E is the keyboard shortcut to ______.	justify the selected text	centre align the selected text	right align the selected text	display the file menu options	2			CGL::Mains::004 COMP
+-	Consider the following statements regarding line spacing of a paragraph in MS-Word 2010:<br>P: Line spacing determines the amount of vertical space between lines of text in a paragraph.<br>Q: Line spacing determines the amount of diagonal space between lines of text in a paragraph<br>Which of the following statement(s) is/are correct?	Only P	Both P and Q	Neither P nor Q	Only Q	1			CGL::Mains::004 COMP
+-	Which one of the following folders is used to store deleted emails?	Trash	Spam	Inbox	Drafts	1			CGL::Mains::004 COMP
+-	Which among the following ports is also called as mouse port?	Video Graphic Array	High Definition Media Interface	Firewire	PS/2	4			CGL::Mains::004 COMP
+-	______ displays a list of utility configure the computer system and install software and hardware.	Run	Control Panel	Taskbar	Help and Support	2			CGL::Mains::004 COMP
+-	______ was the first browser to display images inline with text instead of displaying images in a separate window.	Mozilla	Mosaic	Lynx	Opera	2			CGL::Mains::004 COMP
+-	______ are a set of wires, which carries a group of bits in parallel and has an associated control scheme. It provides a communication path between two or more devices of a computer system.	Buses	Control Unit	Register	Cache	1			CGL::Mains::004 COMP
+-	What will the function given below return in MS-Excel 2010?<br>=MATCH (12, {10,13, 30, 40, 60},1)	0	1	#N/A	2	2			CGL::Mains::004 COMP
+-	Which among the following statements is incorrect for input devices?	Input devices are also called as peripheral device.	Input devices accepts user data.	Input devices helps computer in receiving data.	Optical Mark Reader is an input device.	1			CGL::Mains::004 COMP
+-	Which among the following statements is incorrect?	A magnetic tape consists of vertical columns called frames.	Magnetic tape consists of horizontal rows called channels or tracks.	Magnetic tape drivers are suitable for storage of data that need to be accessed randomly.	There is no addressing in the magnetic tapes.	3			CGL::Mains::004 COMP
