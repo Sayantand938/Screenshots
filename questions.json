@@ -1,0 +1,162 @@
+[
+  {
+    "Question": "A ________ can either be malware or hardware. The main purpose of this malware is to record the keys pressed by a user on the keyboard.",
+    "OP1": "Keyloggers",
+    "OP2": "Rootkit",
+    "OP3": "Worm",
+    "OP4": "Trojan",
+    "Answer": 1
+  },
+  {
+    "Question": "A ________ port transmits one bit of a byte at a time as a single stream of bits. It is meant for transmitting slow data over long distances.",
+    "OP1": "Parallel",
+    "OP2": "Universal Serial Bus",
+    "OP3": "Serial",
+    "OP4": "Display",
+    "Answer": 3
+  },
+  {
+    "Question": "Which of the following is also known as a flash drive?",
+    "OP1": "Disk Array",
+    "OP2": "HDD",
+    "OP3": "SSD",
+    "OP4": "Pen drive",
+    "Answer": 4
+  },
+  {
+    "Question": "Which of the following keyboard shortcut is used to close a MS-Word 365 document?",
+    "OP1": "Ctrl + F3",
+    "OP2": "Alt + F3",
+    "OP3": "Alt + F4",
+    "OP4": "Shift + F5",
+    "Answer": 3
+  },
+  {
+    "Question": "Which among the following is incorrect about cache memory?",
+    "OP1": "It is slower than the main memory.",
+    "OP2": "It keeps the programs that can be run in a short amount of time.",
+    "OP3": "It acts as a high speed buffer between CPU and main memory.",
+    "OP4": "It stores data in temporary use.",
+    "Answer": 1
+  },
+  {
+    "Question": "Which among the following keyboard shortcut can be used to open Windows Explorer?",
+    "OP1": "Windows Key + E",
+    "OP2": "Windows Key + R",
+    "OP3": "Windows Key + X",
+    "OP4": "Windows Key + W",
+    "Answer": 1
+  },
+  {
+    "Question": "A ________ is a networking device that filters network traffic while connecting multiple computers or communicating devices.",
+    "OP1": "Repeater",
+    "OP2": "Distributor",
+    "OP3": "Switch",
+    "OP4": "Router",
+    "Answer": 3
+  },
+  {
+    "Question": "________ server acts as a set of components accessible to the software developer through an API defined by the platform itself.",
+    "OP1": "Application",
+    "OP2": "Mail",
+    "OP3": "File Transfer Protocol (FTP)",
+    "OP4": "Database",
+    "Answer": 1
+  },
+  {
+    "Question": "A ________ is a contagious program or code that attaches itself to another piece of software and then reproduces itself when that software is run.",
+    "OP1": "Trojan",
+    "OP2": "virus",
+    "OP3": "adware",
+    "OP4": "spyware",
+    "Answer": 2
+  },
+  {
+    "Question": "Which among the following keyboard shortcuts open the properties for the selected item on a Windows 10 home screen?",
+    "OP1": "Alt + Shift + Spacebar",
+    "OP2": "Ctrl + Shift + Spacebar",
+    "OP3": "Alt + Enter",
+    "OP4": "Ctrl + Enter",
+    "Answer": 3
+  },
+  {
+    "Question": "Which of the following shortcut key is used to quickly create a new, blank workbook in MS-Excel 2010?",
+    "OP1": "Ctrl + N",
+    "OP2": "Alt +shift + W",
+    "OP3": "Alt + shift +N",
+    "OP4": "Ctrl + W",
+    "Answer": 1
+  },
+  {
+    "Question": "________ is a reading device that reads printed text by scanning it character by character.",
+    "OP1": "Track Ball",
+    "OP2": "Digitizer",
+    "OP3": "Magnetic Ink Card Reader (MICR)",
+    "OP4": "Optical Character Reader (OCR)",
+    "Answer": 4
+  },
+  {
+    "Question": "Consider the following statement about the MATCH () function of MS-Excel 2010:<br>P: It searches for a specified item in a range of cells, and then returns the relative position of that item in the range.<br>Q: The MATCH function syntax is MATCH(lookup_value, lookup_array, [match_type])<br>R: All the arguments in a MATCH() function are required.<br>Which of the following statement(s) is/are true",
+    "OP1": "Only Q",
+    "OP2": "All P, Q, R",
+    "OP3": "Only P and R",
+    "OP4": "Only P and Q",
+    "Answer": 4
+  },
+  {
+    "Question": "Which among the following statements is incorrect about Central Processing Unit?",
+    "OP1": "Control Unit controls the order in which instructions enter and leave the processor and how the instructions are executed.",
+    "OP2": "Arithmetic Logic Unit is responsible for taking the input, converting it into a signal, and storing it for further processing.",
+    "OP3": "Arithmetic Logic Unit is also known as the mathematical brain of a computer.",
+    "OP4": "Control Unit directs and manages operation sequences.",
+    "Answer": 2
+  },
+  {
+    "Question": "Which among the following registers in Instruction Cycle holds the last instruction fetched?",
+    "OP1": "Memory Address Register (MAR)",
+    "OP2": "Instruction Register (IR)",
+    "OP3": "Program Counter (PC)",
+    "OP4": "Memory Buffer Register (MBR)",
+    "Answer": 2
+  },
+  {
+    "Question": "In Gmail, what do you use when you receive mail and want to send the mail in response to the same mail and to the original sender only?",
+    "OP1": "Forward",
+    "OP2": "Both Reply and Forward",
+    "OP3": "Reply All",
+    "OP4": "Reply",
+    "Answer": 4
+  },
+  {
+    "Question": "Which of the following is not a magnetic disk?",
+    "OP1": "Disk pack",
+    "OP2": "DVD",
+    "OP3": "Winchester disk",
+    "OP4": "Zip disk",
+    "Answer": 2
+  },
+  {
+    "Question": "Which of the following buttons are present in the Quick Access Toolbar by default in MS-Word 2010?",
+    "OP1": "Undo, Redo, Name",
+    "OP2": "Undo, Redo, Cut",
+    "OP3": "Paste, Redo, Copy",
+    "OP4": "Save, Undo, Redo",
+    "Answer": 4
+  },
+  {
+    "Question": "Which among the following statements is incorrect?",
+    "OP1": "Memory is required in the webserver to downloading anything.",
+    "OP2": "Uploading is a procedure for copying data from the device to the webserver.",
+    "OP3": "Data travels from user's device to the web server while uploading.",
+    "OP4": "Downloading is a procedure of copying files from the webserver to the machine.",
+    "Answer": 1
+  },
+  {
+    "Question": "Which of the following Internet protocol specifies how data is exchanged over the Internet and how it should be broken into IP packets?",
+    "OP1": "PPP",
+    "OP2": "HTTP",
+    "OP3": "TCP",
+    "OP4": "SMTP",
+    "Answer": 3
+  }
+]
